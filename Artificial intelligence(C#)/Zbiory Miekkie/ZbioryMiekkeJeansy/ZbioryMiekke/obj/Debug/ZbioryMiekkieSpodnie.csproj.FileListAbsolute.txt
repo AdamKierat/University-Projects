@@ -1,0 +1,6 @@
+C:\Users\VeeZ\source\repos\ZbioryMiekke\ZbioryMiekke\bin\Debug\ZbioryMiekke.exe.config
+C:\Users\VeeZ\source\repos\ZbioryMiekke\ZbioryMiekke\bin\Debug\ZbioryMiekke.exe
+C:\Users\VeeZ\source\repos\ZbioryMiekke\ZbioryMiekke\bin\Debug\ZbioryMiekke.pdb
+C:\Users\VeeZ\source\repos\ZbioryMiekke\ZbioryMiekke\obj\Debug\ZbioryMiekkieSpodnie.csprojAssemblyReference.cache
+C:\Users\VeeZ\source\repos\ZbioryMiekke\ZbioryMiekke\obj\Debug\ZbioryMiekke.exe
+C:\Users\VeeZ\source\repos\ZbioryMiekke\ZbioryMiekke\obj\Debug\ZbioryMiekke.pdb

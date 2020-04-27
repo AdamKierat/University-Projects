@@ -1,0 +1,10 @@
+deszczowo;gorąco;słaby;tak
+slonecznie;chłodno;mocny;nie
+pochmurno;ciepło;mocny;nie
+deszczowo;ciepło;słaby;nie
+pochmurno;gorąco;umiarkowany;nie
+slonecznie;ciepło;mocny;tak
+slonecznie;gorąco;słaby;tak
+slonecznie;gorąco;umiarkowany;tak
+deszczowo;chłodno;mocny;nie
+pochmurno;ciepło;słaby;tak

@@ -1,0 +1,6 @@
+C:\Users\VeeZ\Downloads\ArtificialIntelligence-master\KluczowePunkty\KluczowePunkty\bin\Debug\KluczowePunkty.exe.config
+C:\Users\VeeZ\Downloads\ArtificialIntelligence-master\KluczowePunkty\KluczowePunkty\bin\Debug\KluczowePunkty.exe
+C:\Users\VeeZ\Downloads\ArtificialIntelligence-master\KluczowePunkty\KluczowePunkty\bin\Debug\KluczowePunkty.pdb
+C:\Users\VeeZ\Downloads\ArtificialIntelligence-master\KluczowePunkty\KluczowePunkty\obj\Debug\KluczowePunkty.csprojAssemblyReference.cache
+C:\Users\VeeZ\Downloads\ArtificialIntelligence-master\KluczowePunkty\KluczowePunkty\obj\Debug\KluczowePunkty.exe
+C:\Users\VeeZ\Downloads\ArtificialIntelligence-master\KluczowePunkty\KluczowePunkty\obj\Debug\KluczowePunkty.pdb

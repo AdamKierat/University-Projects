@@ -1,0 +1,12 @@
+C:\Users\VeeZ\Downloads\ArtificialIntelligence-master\Bayes\Bayes\bin\Debug\Bayes.exe.config
+C:\Users\VeeZ\Downloads\ArtificialIntelligence-master\Bayes\Bayes\bin\Debug\Bayes.exe
+C:\Users\VeeZ\Downloads\ArtificialIntelligence-master\Bayes\Bayes\bin\Debug\Bayes.pdb
+C:\Users\VeeZ\Downloads\ArtificialIntelligence-master\Bayes\Bayes\obj\Debug\Bayes.csprojAssemblyReference.cache
+C:\Users\VeeZ\Downloads\ArtificialIntelligence-master\Bayes\Bayes\obj\Debug\Bayes.exe
+C:\Users\VeeZ\Downloads\ArtificialIntelligence-master\Bayes\Bayes\obj\Debug\Bayes.pdb
+D:\Studia\Artificial intelligence(C#)\Bayes\Bayes\bin\Debug\Bayes.exe.config
+D:\Studia\Artificial intelligence(C#)\Bayes\Bayes\bin\Debug\Bayes.exe
+D:\Studia\Artificial intelligence(C#)\Bayes\Bayes\bin\Debug\Bayes.pdb
+D:\Studia\Artificial intelligence(C#)\Bayes\Bayes\obj\Debug\Bayes.csprojAssemblyReference.cache
+D:\Studia\Artificial intelligence(C#)\Bayes\Bayes\obj\Debug\Bayes.exe
+D:\Studia\Artificial intelligence(C#)\Bayes\Bayes\obj\Debug\Bayes.pdb
